@@ -1,8 +1,7 @@
 # RedshiftCursor
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/redshift_cursor`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Enable cursor on ActiveRecord with Redshift.
+This gem bridges [ActiveRecord4-Redshift-Adapter](https://github.com/aamine/activerecord4-redshift-adapter) and [PostgreSQLCursor](https://github.com/afair/postgresql_cursor).
 
 ## Installation
 
@@ -22,7 +21,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+See PostgreSQLCursor one: https://github.com/afair/postgresql_cursor/blob/master/README.md
 
 ## Development
 
@@ -32,10 +31,9 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/redshift_cursor.
+Bug reports and pull requests are welcome on GitHub at https://github.com/inohiro/redshift_cursor.
 
 
 ## License
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-
