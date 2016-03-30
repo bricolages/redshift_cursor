@@ -1,6 +1,9 @@
 # RedshiftCursor
 
+[![Gem Version](https://badge.fury.io/rb/redshift_cursor.svg)](https://badge.fury.io/rb/redshift_cursor)
+
 Enable cursor to Redshift on ActiveRecord.
+
 This gem bridges [ActiveRecord4-Redshift-Adapter](https://github.com/aamine/activerecord4-redshift-adapter) and [PostgreSQLCursor](https://github.com/afair/postgresql_cursor).
 
 ## Installation
