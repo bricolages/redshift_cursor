@@ -21,7 +21,7 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency 'pg'
   spec.add_dependency 'postgresql_cursor'
-  spec.add_dependency 'activerecord4-redshift-adapter'
+  spec.add_dependency 'activerecord-redshift'
 
   spec.add_development_dependency "bundler", "~> 1.11"
   spec.add_development_dependency "rake", "~> 10.0"
